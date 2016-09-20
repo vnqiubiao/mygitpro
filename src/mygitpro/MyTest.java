@@ -10,6 +10,8 @@ public class MyTest {
 		System.out.println("add some info.");
 		
 		System.out.println("i want to print AAA.");
+		
+		System.out.println("now i want to finish.");
 
 	}
 
