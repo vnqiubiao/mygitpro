@@ -12,6 +12,10 @@ public class MyTest {
 		System.out.println("i want to print AAA.");
 		
 		System.out.println("now i want to finish.");
+		
+		System.out.println("show some info");
+		
+		System.out.println("222");
 
 	}
 

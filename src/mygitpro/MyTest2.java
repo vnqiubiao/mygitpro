@@ -8,6 +8,8 @@ public class MyTest2 {
 		System.out.println("i want to print BBB.");
 		
 		System.out.println("update MyTest2.");
+		
+		System.out.println("555");
 
 	}
 
